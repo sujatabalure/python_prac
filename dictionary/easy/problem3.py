@@ -6,8 +6,7 @@ my_dict = {
 }
 my_dau_dict ={"name1" : "Ishani",
     "age1" : 6,
-    "city1" : "Punee"
-
+    "city" : "Punee"
 }
 my_dict.update(my_dau_dict)
 print(my_dict)
