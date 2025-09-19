@@ -5,4 +5,4 @@ my_dict = {
     "city" : "Punee"
 }
 x= len(my_dict)
-print(x)
+print(x  ," is the length of dictionary", my_dict)
