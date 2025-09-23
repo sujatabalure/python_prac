@@ -4,5 +4,5 @@ my_dict = {
     "age" : 30,
     "city" : "Pune"
 }
-x= my_dict.get("city"),
+x= my_dict.get("city"),#using get function access value of dictionary
 print(x)
