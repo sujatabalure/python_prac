@@ -6,6 +6,6 @@ my_dict = {
     "sujata_age" : 30,
     }
 
-sorted_dict = dict(sorted(my_dict.items(), key = lambda  item:item[1]))
-print(my_dict)
-print (sorted_dict)
+sorted_dict = dict(sorted(my_dict.items(), key = lambda  item:item[1]))#sorting the dictionary
+print(my_dict)#print origanal dictionary
+print (sorted_dict)#print sorted dictionary

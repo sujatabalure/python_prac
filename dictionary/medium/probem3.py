@@ -5,6 +5,6 @@ my_dict = {
     "sujata_age" : 30,
     }
 
-max_age = max(my_dict.items(), key = lambda  item:item[1])
-print(max_age)
+max_age = max(my_dict.items(), key = lambda  item:item[1])#using get fuction find max value
+print(max_age)#printing max vaue
 
