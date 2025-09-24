@@ -12,7 +12,7 @@ my_dict = {
     "ishani_info":{
     "name" : "ishani",
     "age" : 5,
-   }#declare nested dictionary 
+   } #declaring nested dictionary 
 }
-print(my_dict["ishani_info"])#printing one of dictionary
+print(my_dict["ishani_info"]) #printing one of dictionary from nested dictionary
 
