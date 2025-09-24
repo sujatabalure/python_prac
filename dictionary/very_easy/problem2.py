@@ -3,6 +3,6 @@ my_dict = {
     "name" : "sujata",
     "age" : 30,
     "city" : "Pune"
-}
-x= my_dict.get("city"),#using get function access value of dictionary
-print(x)
+}  #declaring dictionary
+x= my_dict.get("city"), #using get function access value of key from the dictionary 
+print(x) #printing dictionary
